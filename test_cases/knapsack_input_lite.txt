@@ -1,0 +1,8 @@
+max weight: 5
+
+available survival items:
+
+name    weight value
+ammo        5   10
+tuna        2    4
+water       3    7

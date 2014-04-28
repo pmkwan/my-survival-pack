@@ -1,0 +1,27 @@
+max weight: 400
+
+available survival items:
+
+name    weight value
+ammo        9   150
+tuna       13    35
+water     153   200
+spam       50   160
+knife      15    60
+hammer     68    45
+rope       27    60
+saw        39    40
+towel      23    30
+rock       52    10
+seed       11    70
+blanket    32    30
+skewer     24    15
+dull-sword 48    10
+oil        73    40
+peanuts    42    70
+almonds    43    75
+wire       22    80
+popcorn     7    20
+rabbit     18    12
+beans       4    50
+laptop     30    10
