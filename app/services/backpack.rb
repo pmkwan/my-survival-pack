@@ -28,7 +28,7 @@ module Services
       end
     end
 
-    def best_items
+    def pick_best_items
       output_items, total_output_value = run_knapsack_algorithm(items, backpack_weight)
 
       output_items.collect do |item|

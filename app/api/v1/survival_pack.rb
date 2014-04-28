@@ -10,7 +10,7 @@ module Workr
       resources :survival_pack do
         post do
           begin
-            output_items = Services::Backpack.new(params).best_items
+            output_items = Services::Backpack.new(params).pick_best_items
 
             { best_items: output_items }
           rescue Exception => e
